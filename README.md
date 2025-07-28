@@ -1,28 +1,22 @@
 # Real-Time-Object-Detection-Web-App
 
-![YOLOv8 Object Detection Demo](demo.gif) <!-- Replace with your actual demo GIF -->
+<img width="1919" height="967" alt="Screenshot 2025-07-28 174730" src="https://github.com/user-attachments/assets/bb1fb0f6-18e5-49c7-b54e-fd5970765408" />
+
 
 A Streamlit web application for real-time object detection using YOLOv8 models. Supports images, videos, and live webcam detection.
 
-## 🚀 Features
+##  Features
 
-- 🔍 Detect objects in images, videos, and live webcam feed
-- ⚡ Compare different YOLOv8 models (nano to x-large)
-- 🎚️ Adjustable confidence threshold
-- 📊 Real-time performance metrics
-- 🖥️ Simple and intuitive UI
+- Detect objects in images, videos, and live webcam feed
+- Compare different YOLOv8 models (nano to x-large)
+- Adjustable confidence threshold
+- Real-time performance metrics
+- Simple and intuitive UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3.10+
 - YOLOv8 (Ultralytics)
 - Streamlit
 - OpenCV
 - PyTorch
-
-## ⚙️ Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/yolov8-streamlit-app.git
-cd yolov8-streamlit-app

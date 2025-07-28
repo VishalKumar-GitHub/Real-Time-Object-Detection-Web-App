@@ -166,7 +166,7 @@ elif input_option == "Webcam":
 st.markdown("---")
 st.markdown(
     """
-    **GitHub:** [Project Repository](https://github.com/yourusername/yolov8-streamlit-app)  
-    **Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)**
+    **GitHub:** [Project Repository](https://github.com/VishalKumar-GitHub/Real-Time-Object-Detection-Web-App/edit)  
+    **Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-kumar-819585275/)**
     """
 )
